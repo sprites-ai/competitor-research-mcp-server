@@ -3,8 +3,8 @@
   "name": "ai.sprites/competitor-research",
   "title": "Competitor Research by Sprites",
   "description": "Competitor intelligence for AI agents: rivals' live ads, keywords, backlinks and AI citations.",
-  "version": "1.0.0",
-  "websiteUrl": "https://www.sprites.ai/mcp",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.sprites.ai/mcp/competitor-research",
   "repository": {
     "url": "https://github.com/sprites-ai/competitor-research-mcp-server",
     "source": "github"

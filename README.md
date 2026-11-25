@@ -267,7 +267,7 @@ Disconnect the connector in your client, or remove the connection in Sprites. Th
 
 This server is built and run by [Sprites](https://www.sprites.ai), an AI marketing agent for paid ads, SEO and AI visibility.
 
-- Product page: [sprites.ai/mcp](https://www.sprites.ai/mcp)
+- Product page: [sprites.ai/mcp/competitor-research](https://www.sprites.ai/mcp/competitor-research)
 - All Sprites MCP servers: [github.com/sprites-ai](https://github.com/sprites-ai)
 - Issues with these docs or configs: open an issue here. Security reports: see [SECURITY.md](SECURITY.md).
 
