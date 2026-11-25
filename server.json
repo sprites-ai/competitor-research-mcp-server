@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.sprites/competitor-research",
+  "title": "Competitor Research by Sprites",
+  "description": "Competitor intelligence for AI agents: rivals' live ads, keywords, backlinks and AI citations.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.sprites.ai/mcp",
+  "repository": {
+    "url": "https://github.com/sprites-ai/competitor-research-mcp-server",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://mcp.sprites.ai/icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.sprites.ai/mcp"
+    }
+  ]
+}
